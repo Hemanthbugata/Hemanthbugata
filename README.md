@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Possess a valuable skill set in the world of decentralized technology and digital Transformation. With your knowledge of blockchain, cloud, and DevOps,  I'm well-equipped to build and deploy robust web applications that interact with blockchain networks. My expertise in web3 development enables me to harness the power of distributed ledger systems, smart contracts, and cryptocurrencies to create innovative and secure solutions and  Devops enables me to harness the power of docker , kubernetes and Terrafom to work on a methodology of SDLC. Whether it's developing decentralized applications or implementing DevOps practices for efficient deployment, your proficiency in web3 development sets you apart as a valuable asset within the industry.</h3>
+<h3 align="left">Possess a valuable skill set in the world of decentralized technology and digital Transformation. With  knowledge of blockchain, cloud, and DevOps,  I'm well-equipped to build and deploy robust web applications that interact with blockchain networks. My expertise in web3 development enables me to harness the power of distributed ledger systems, smart contracts, and cryptocurrencies to create innovative and secure solutions and  Devops enables me to harness the power of docker , kubernetes and Terrafom to work on a methodology of SDLC. Whether it's developing decentralized applications or implementing DevOps practices for efficient deployment, your proficiency in web3 development sets you apart as a valuable asset within the industry.</h3>
 
 ###
 
