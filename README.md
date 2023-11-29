@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Hemanth Bugata  Smart Contract developer & DevOps Engineer. </p>
+<p align="left"> Hemanth Bugata  Smart Contract developer & DevOps Engineer. </p>
 
 ###
 
