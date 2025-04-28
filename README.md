@@ -98,7 +98,7 @@ Additionally, my proficiency in **DevOps** tools like **Docker**, **Kubernetes**
 ### **Kubernetes Managed Metrics**
 - **Description**: Deployed **Prometheus** on **AWS EKS clusters** for **monitoring** cluster performance, health of nodes, and pods using **Helm** charts and **InfluxDB** for time-series data storage.
 
-### **Extraction of Water Bodies from SAR Images**
+### **HydroVision-AI**
 - **Description**: Developed a **deep learning model** for segmenting water bodies from **SAR images** for flood detection and environmental monitoring.
 - **Tech**: **CNNs**, **GCP Vertex AI**, **TensorFlow**, **IoU > 85% accuracy**.
 
