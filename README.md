@@ -1,22 +1,59 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hemanth Naidu Bugatha 👋
 
-###
+### Backend Engineer 
 
-<p align="left"> Hemanth Bugata  Smart Contract developer & DevOps Engineer. </p>
+Possess a valuable skill set in the world of decentralized technology and digital transformation. With knowledge of blockchain, cloud, and DevOps, I'm well-equipped to build and deploy robust web applications that interact with blockchain networks. My expertise in **Web3** development enables me to harness the power of **distributed ledger systems**, **smart contracts**, and **cryptocurrencies** to create innovative and secure solutions. 
 
-###
+Additionally, my proficiency in **DevOps** tools like **Docker**, **Kubernetes**, and **Terraform** allows me to work on efficient SDLC methodologies for automated and scalable deployments. Whether it’s developing decentralized applications (DApps) or implementing DevOps practices for efficient deployment, my skills set me apart as a valuable asset in the industry.
 
-<h3 align="left">Possess a valuable skill set in the world of decentralized technology and digital Transformation. With  knowledge of blockchain, cloud, and DevOps,  I'm well-equipped to build and deploy robust web applications that interact with blockchain networks. My expertise in web3 development enables me to harness the power of distributed ledger systems, smart contracts, and cryptocurrencies to create innovative and secure solutions and  Devops enables me to harness the power of docker , kubernetes and Terrafom to work on a methodology of SDLC. Whether it's developing decentralized applications or implementing DevOps practices for efficient deployment, your proficiency in web3 development sets you apart as a valuable asset within the industry.</h3>
+---
 
-###
+## Technologies & Expertise
 
-<p align="left"></p>
+### **Web2 Development**
+- **Languages & Frameworks**:
+  - **JavaScript**, **TypeScript**, **Node.js**, **Express.js**, **React.js**
+- **Databases**:
+  - **MongoDB**, **PostgreSQL**, **MySQL**
+- **Tools**:
+  - **Postman**, **Docker**, **Git**, **GitHub**
 
-###
+### **DevOps**
+- **Containerization & Orchestration**: 
+  - **Docker**, **Kubernetes**, **Helm**, **Terraform**
+- **CI/CD**: 
+  - **Jenkins**, **ArgoCD**, **GitHub Actions**, **AWS CodePipeline**
+- **Automation & Configuration**: 
+  - **Ansible**, **Terraform**, **CloudFormation**
+- **Monitoring & Logging**: 
+  - **Prometheus**, **Grafana**, **Splunk**, **StackDriver**
 
-<h2 align="left">Development Tools</h2>
+### **Cloud**
+- **Cloud Platforms**: 
+  - **Amazon Web Services (AWS)**, **Google Cloud Platform (GCP)**, **Microsoft Azure**
+- **Cloud Tools & Services**:
+  - **AWS Sagemaker**, **Vertex AI**, **Azure ML**
+  - **AWS Lambda**, **AWS EC2**, **AWS RDS**, **GCP Compute Engine**, **GKE**
 
-###
+### **Generative AI**
+- **AI/ML Tools**:
+  - **TensorFlow**, **PyTorch**, **OpenAI API**
+  - **AWS SageMaker**, **Vertex AI** for model training and deployment
+- **Skills**:
+  - Building **AI-powered applications** with a focus on backend integration using **Node.js** and **Python**.
+
+### **Web3 Development**
+- **Blockchain Platforms**:
+  - **Ethereum**, **Polygon**, **Solana**
+  - **BitTorrent Chain** (BTT)
+- **Smart Contracts**: 
+  - **Solidity**, **Smart Contract Deployment**
+- **Decentralized Application (DApp) Development**:
+  - Developing **decentralized apps (DApps)** with blockchain and smart contracts for transparent, secure transactions.
+
+---
+
+## Development Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -46,8 +83,48 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-<h2 align="left">social media</h2>
+---
+
+## Notable Projects
+
+### **BitLogix**
+- **Description**: A **decentralized application** for **supply chain management** providing **real-time visibility** and **traceability** across logistics operations.
+- **Tech**: Built on the **BitTorrent Chain**, ensuring **secure** and **transparent** transactions and tamper-proof data.
+
+### **Swiggy-Deploy**
+- **Description**: Built a **secure, scalable deployment pipeline** for a **Swiggy Clone** on **AWS** using **EKS** for container orchestration.
+- **Tech**: Automated infrastructure provisioning with **Terraform**, CI/CD with **Jenkins** and **ArgoCD**, **SonarQube** integration for code quality.
+
+### **Kubernetes Managed Metrics**
+- **Description**: Deployed **Prometheus** on **AWS EKS clusters** for **monitoring** cluster performance, health of nodes, and pods using **Helm** charts and **InfluxDB** for time-series data storage.
+
+### **Extraction of Water Bodies from SAR Images**
+- **Description**: Developed a **deep learning model** for segmenting water bodies from **SAR images** for flood detection and environmental monitoring.
+- **Tech**: **CNNs**, **GCP Vertex AI**, **TensorFlow**, **IoU > 85% accuracy**.
+
+---
+
+## Certifications
+- **Google Associate Cloud Engineer**
+- **Google Professional Cloud DevOps Engineer**
+
+---
+
+## Connect with Me
+
+- **LinkedIn**: [Hemanth Naidu Bugatha](https://www.linkedin.com/in/hemanth-naidu-bugatha-2787b3279)
+- **GitHub**: [Hemanthbugata](https://github.com/Hemanthbugata)
+- **Portfolio**: [Hemanth's Portfolio](https://portfoliohemanth.vercel.app/)
+
+---
+
+## Contact Info
+- **Email**: hemanthnaidubugatha@gmail.com
+- **Phone**: +91 9398865658
+
+---
+
+## Social Media
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -59,5 +136,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
 </div>
-
-###
